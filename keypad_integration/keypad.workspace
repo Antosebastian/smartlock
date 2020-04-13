@@ -4,13 +4,13 @@
   <BuildMatrix>
     <WorkspaceConfiguration Name="Debug" Selected="yes">
       <Environment/>
-      <Project Name="keypad" ConfigName="Debug"/>
       <Project Name="keypad_i" ConfigName="Debug"/>
+      <Project Name="keypad" ConfigName="Debug"/>
     </WorkspaceConfiguration>
     <WorkspaceConfiguration Name="Release" Selected="yes">
       <Environment/>
-      <Project Name="keypad" ConfigName="Release"/>
       <Project Name="keypad_i" ConfigName="Release"/>
+      <Project Name="keypad" ConfigName="Release"/>
     </WorkspaceConfiguration>
   </BuildMatrix>
 </CodeLite_Workspace>
